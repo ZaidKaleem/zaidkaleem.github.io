@@ -1,3 +1,7 @@
+.nav {
+  background-color: #34495e;
+}
+
 .nav a {
   color: #34495e;
   font-size: 11px;
@@ -18,7 +22,7 @@
 }
 
 .jumbotron .container {
-  position: relative;
+  position: fixed;
   top:100px;
 }
 
