@@ -1,0 +1,13 @@
+{
+  "name": "bower.json",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ZaidKaleem/zaidkaleem.github.io",
+  "authors": [
+    "ZaidKaleem <zaidkaleem48@gmail.com>"
+  ],
+  "description": "Polymer packages",
+  "license": "MIT",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5"
+  }
+}
