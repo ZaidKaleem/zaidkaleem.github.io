@@ -1,0 +1,30 @@
+body
+{
+	background-color: #f7f6f8;
+}
+
+.header
+{
+	margin: 0;
+	margin: 0;
+	background-color: white
+
+}
+
+#img
+{
+	margin-top: 10px;
+}
+
+#name
+{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-weight: bold;
+	font-size: 17px;
+}
+
+#title
+{
+	color: gray;
+}
