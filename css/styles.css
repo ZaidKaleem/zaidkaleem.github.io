@@ -1,27 +1,6 @@
-body
-{
-	background-color: #f7f6f8;
-}
-
 .header
 {
-	margin: 0;
-}
-
-#img
-{
-	margin: 0;
-}
-
-#name
-{
-	margin: 0;
-	font-weight: bold;
-	font-size: 20px;
-	color: gray;
-}
-
-#title
-{
-	color: gray;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
