@@ -20,10 +20,11 @@ i:hover {
     color: aqua;
 }
 
-.redbg {
-    background-color: red;
+.bluebg {
+    background-color: cornflowerblue;
 }
 
 .graybg {
     background-color: gray;
+    position: relative;
 }
