@@ -1,3 +1,29 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+html, body {
+    height: 100%;
+}
+
+.container-fluid {
+    min-height: 100%;
+    overflow: hidden;
+}
+
+#left-pane, #right-pane {
+    margin-bottom: -9999px;
+    padding-bottom: 9999px;
+}
+
 i:hover {
     color: aqua;
+}
+
+.redbg {
+    background-color: red;
+}
+
+.graybg {
+    background-color: gray;
 }
