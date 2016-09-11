@@ -1,12 +1,22 @@
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Pacifico', cursive;
+    color: black;
+    background-color: chocolate;
 }
 
-html, body {
-    height: 100%;
+a {
+    color: black;
 }
 
 
-i:hover {
-    color: aqua;
+.github:hover {
+    color: purple;
 }
+
+.linkedin:hover {
+    color: dodgerblue;
+}
+
+.twitter:hover {
+     color: deepskyblue;
+ }
