@@ -1,30 +1,22 @@
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Pacifico', cursive;
+    color: black;
+    background-color: chocolate;
 }
 
-html, body {
-    height: 100%;
+a {
+    color: black;
 }
 
-.container-fluid {
-    min-height: 100%;
-    overflow: hidden;
+
+.github:hover {
+    color: purple;
 }
 
-#left-pane, #right-pane {
-    margin-bottom: -9999px;
-    padding-bottom: 9999px;
+.linkedin:hover {
+    color: dodgerblue;
 }
 
-i:hover {
-    color: aqua;
-}
-
-.bluebg {
-    background-color: cornflowerblue;
-}
-
-.graybg {
-    background-color: gray;
-    position: relative;
-}
+.twitter:hover {
+     color: deepskyblue;
+ }
