@@ -1,13 +1,16 @@
 body {
-    font-family: 'Bungee Shade', cursive;
-    color: black;
-    background-color: chocolate;
+    font-family: 'Russo One', sans-serif;
+    background-color: whitesmoke;
 }
 
 a {
-    color: black;
+    color: lightgrey;
 }
 
+.name {
+    color: blueviolet;
+    font-size: 50px;
+}
 
 .github:hover {
     color: purple;
