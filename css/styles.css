@@ -1,0 +1,31 @@
+body {
+    font-family: 'Russo One', sans-serif;
+    background-color: whitesmoke;
+}
+
+a {
+    color: lightgrey;
+}
+
+.name {
+    margin-top: 18%;
+    color: blueviolet;
+    font-size: 50px;
+    vertical-align: middle;
+}
+
+.github:hover {
+    color: purple;
+}
+
+.linkedin:hover {
+    color: dodgerblue;
+}
+
+.twitter:hover {
+     color: deepskyblue;
+ }
+
+.icons {
+    margin-top: 22%;
+}
