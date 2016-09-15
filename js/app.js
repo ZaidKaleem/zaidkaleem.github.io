@@ -1,6 +1,6 @@
 var main = function() {
     $(".name").click(function () {
-        $(".name").css("font-size", "60px");
+        $(".name").animate({font-size: "100px"}, 500);
     });
 };
 
